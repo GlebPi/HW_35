@@ -1,0 +1,3676 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="99" passed="99">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="500661" started-at="2017-09-09T21:59:09Z" finished-at="2017-09-09T22:07:30Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="500661" started-at="2017-09-09T21:59:09Z" finished-at="2017-09-09T22:07:30Z">
+      <class name="core.PrimeNumberCheckerTest">
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="3" started-at="2017-09-09T14:59:09Z" finished-at="2017-09-09T14:59:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@568ff82]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="10041" started-at="2017-09-09T14:59:09Z" data-provider="prime number" finished-at="2017-09-09T14:59:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.01 (2 is prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="0" started-at="2017-09-09T14:59:20Z" finished-at="2017-09-09T14:59:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@50caa560]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5004" started-at="2017-09-09T14:59:20Z" data-provider="prime number" finished-at="2017-09-09T14:59:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.02 (3 is prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5009" started-at="2017-09-09T14:59:25Z" data-provider="prime number" finished-at="2017-09-09T14:59:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.03 (4 is not prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="0" started-at="2017-09-09T14:59:25Z" finished-at="2017-09-09T14:59:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@2a266d09]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5004" started-at="2017-09-09T14:59:30Z" data-provider="prime number" finished-at="2017-09-09T14:59:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.04 (5 is prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="0" started-at="2017-09-09T14:59:30Z" finished-at="2017-09-09T14:59:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@5ab9e72c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="0" started-at="2017-09-09T14:59:35Z" finished-at="2017-09-09T14:59:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@186f8716]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5010" started-at="2017-09-09T14:59:35Z" data-provider="prime number" finished-at="2017-09-09T14:59:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.05 (6 is not prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[6]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="0" started-at="2017-09-09T14:59:40Z" finished-at="2017-09-09T14:59:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@1d8bd0de]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5006" started-at="2017-09-09T14:59:40Z" data-provider="prime number" finished-at="2017-09-09T14:59:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.06 (7 is prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[7]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="1" started-at="2017-09-09T14:59:45Z" finished-at="2017-09-09T14:59:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@45ca843]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5007" started-at="2017-09-09T14:59:45Z" data-provider="prime number" finished-at="2017-09-09T14:59:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.07 (8 is not prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[8]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="0" started-at="2017-09-09T14:59:50Z" finished-at="2017-09-09T14:59:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@11c9af63]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5003" started-at="2017-09-09T14:59:50Z" data-provider="prime number" finished-at="2017-09-09T14:59:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.08 (9 is not prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5005" started-at="2017-09-09T14:59:55Z" data-provider="prime number" finished-at="2017-09-09T15:00:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.09 (10 is not prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="0" started-at="2017-09-09T14:59:55Z" finished-at="2017-09-09T14:59:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@757acd7b]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="1" started-at="2017-09-09T15:00:00Z" finished-at="2017-09-09T15:00:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@36b4fe2a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5003" started-at="2017-09-09T15:00:00Z" data-provider="prime number" finished-at="2017-09-09T15:00:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.10 (11 is prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[11]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="1" started-at="2017-09-09T15:00:05Z" finished-at="2017-09-09T15:00:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@574b560f]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5006" started-at="2017-09-09T15:00:05Z" data-provider="prime number" finished-at="2017-09-09T15:00:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.11 (12 is not prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5004" started-at="2017-09-09T15:00:10Z" data-provider="prime number" finished-at="2017-09-09T15:00:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.12 (13 is prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[13]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="0" started-at="2017-09-09T15:00:10Z" finished-at="2017-09-09T15:00:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@ba54932]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="0" started-at="2017-09-09T15:00:15Z" finished-at="2017-09-09T15:00:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@28975c28]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5007" started-at="2017-09-09T15:00:15Z" data-provider="prime number" finished-at="2017-09-09T15:00:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.13 (14 is not prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[14]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5007" started-at="2017-09-09T15:00:20Z" data-provider="prime number" finished-at="2017-09-09T15:00:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.14 (15 is not prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[15]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="0" started-at="2017-09-09T15:00:20Z" finished-at="2017-09-09T15:00:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@3943a2be]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="0" started-at="2017-09-09T15:00:25Z" finished-at="2017-09-09T15:00:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@343570b7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5004" started-at="2017-09-09T15:00:25Z" data-provider="prime number" finished-at="2017-09-09T15:00:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.15 (16 is not prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[16]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="1" started-at="2017-09-09T15:00:30Z" finished-at="2017-09-09T15:00:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@157853da]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5009" started-at="2017-09-09T15:00:30Z" data-provider="prime number" finished-at="2017-09-09T15:00:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.16 (17 is prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[17]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="1" started-at="2017-09-09T15:00:35Z" finished-at="2017-09-09T15:00:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@71c3b41]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5006" started-at="2017-09-09T15:00:35Z" data-provider="prime number" finished-at="2017-09-09T15:00:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.17 (18 is not prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[18]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="0" started-at="2017-09-09T15:00:40Z" finished-at="2017-09-09T15:00:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@236e3f4e]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5007" started-at="2017-09-09T15:00:40Z" data-provider="prime number" finished-at="2017-09-09T15:00:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.18 (19 is prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[19]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="1" started-at="2017-09-09T15:00:45Z" finished-at="2017-09-09T15:00:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@3cc1435c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5003" started-at="2017-09-09T15:00:45Z" data-provider="prime number" finished-at="2017-09-09T15:00:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.19 (20 is not prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[20]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="0" started-at="2017-09-09T15:00:50Z" finished-at="2017-09-09T15:00:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@6bf0219d]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5007" started-at="2017-09-09T15:00:50Z" data-provider="prime number" finished-at="2017-09-09T15:00:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.20 (21 is not prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[21]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="0" started-at="2017-09-09T15:00:55Z" finished-at="2017-09-09T15:00:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@dd0c991]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5003" started-at="2017-09-09T15:00:55Z" data-provider="prime number" finished-at="2017-09-09T15:01:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.21 (22 is not prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[22]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="0" started-at="2017-09-09T15:01:00Z" finished-at="2017-09-09T15:01:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@5f16132a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5003" started-at="2017-09-09T15:01:00Z" data-provider="prime number" finished-at="2017-09-09T15:01:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.22 (23 is prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[23]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="1" started-at="2017-09-09T15:01:05Z" finished-at="2017-09-09T15:01:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@69fb6037]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5002" started-at="2017-09-09T15:01:05Z" data-provider="prime number" finished-at="2017-09-09T15:01:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.23 (24 is not prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[24]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="1" started-at="2017-09-09T15:01:10Z" finished-at="2017-09-09T15:01:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@36d585c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5006" started-at="2017-09-09T15:01:10Z" data-provider="prime number" finished-at="2017-09-09T15:01:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.24 (25 is not prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[25]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="1" started-at="2017-09-09T15:01:15Z" finished-at="2017-09-09T15:01:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@87a85e1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5007" started-at="2017-09-09T15:01:15Z" data-provider="prime number" finished-at="2017-09-09T15:01:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.35 (26 is not prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[26]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5002" started-at="2017-09-09T15:01:20Z" data-provider="prime number" finished-at="2017-09-09T15:01:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.26 (27 is not prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[27]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="0" started-at="2017-09-09T15:01:20Z" finished-at="2017-09-09T15:01:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@671a5887]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="1" started-at="2017-09-09T15:01:25Z" finished-at="2017-09-09T15:01:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@5552768b]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5002" started-at="2017-09-09T15:01:25Z" data-provider="prime number" finished-at="2017-09-09T15:01:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.27 (28 is not prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[28]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="0" started-at="2017-09-09T15:01:30Z" finished-at="2017-09-09T15:01:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@3c947bc5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5004" started-at="2017-09-09T15:01:30Z" data-provider="prime number" finished-at="2017-09-09T15:01:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.28 (29 is prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[29]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5006" started-at="2017-09-09T15:01:35Z" data-provider="prime number" finished-at="2017-09-09T15:01:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.29 (30 is not prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[30]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="0" started-at="2017-09-09T15:01:35Z" finished-at="2017-09-09T15:01:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@609db43b]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5003" started-at="2017-09-09T15:01:40Z" data-provider="prime number" finished-at="2017-09-09T15:01:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.30 (31 is prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[31]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="0" started-at="2017-09-09T15:01:40Z" finished-at="2017-09-09T15:01:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@55f616cf]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5007" started-at="2017-09-09T15:01:45Z" data-provider="prime number" finished-at="2017-09-09T15:01:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.31 (32 is not prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[32]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="0" started-at="2017-09-09T15:01:45Z" finished-at="2017-09-09T15:01:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@1356d4d4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="1" started-at="2017-09-09T15:01:50Z" finished-at="2017-09-09T15:01:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@c03cf28]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5002" started-at="2017-09-09T15:01:50Z" data-provider="prime number" finished-at="2017-09-09T15:01:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.32 (33 is not prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[33]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="0" started-at="2017-09-09T15:01:55Z" finished-at="2017-09-09T15:01:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@1329eff]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5003" started-at="2017-09-09T15:01:55Z" data-provider="prime number" finished-at="2017-09-09T15:02:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.33 (34 is not prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[34]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="0" started-at="2017-09-09T15:02:00Z" finished-at="2017-09-09T15:02:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@6497b078]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5003" started-at="2017-09-09T15:02:00Z" data-provider="prime number" finished-at="2017-09-09T15:02:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.34 (35 is not prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[35]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5005" started-at="2017-09-09T15:02:05Z" data-provider="prime number" finished-at="2017-09-09T15:02:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.35 (36 is not prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[36]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="0" started-at="2017-09-09T15:02:05Z" finished-at="2017-09-09T15:02:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@41c2284a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5004" started-at="2017-09-09T15:02:10Z" data-provider="prime number" finished-at="2017-09-09T15:02:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.36 (37 is prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[37]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="0" started-at="2017-09-09T15:02:10Z" finished-at="2017-09-09T15:02:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@53aad5d5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5003" started-at="2017-09-09T15:02:15Z" data-provider="prime number" finished-at="2017-09-09T15:02:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.37 (38 is not prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[38]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="0" started-at="2017-09-09T15:02:15Z" finished-at="2017-09-09T15:02:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@46fa7c39]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="0" started-at="2017-09-09T15:02:20Z" finished-at="2017-09-09T15:02:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@1fb700ee]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5003" started-at="2017-09-09T15:02:20Z" data-provider="prime number" finished-at="2017-09-09T15:02:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.38 (39 is not prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[39]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5005" started-at="2017-09-09T15:02:25Z" data-provider="prime number" finished-at="2017-09-09T15:02:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.39 (40 is not prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[40]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="0" started-at="2017-09-09T15:02:25Z" finished-at="2017-09-09T15:02:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@4f67eb2a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="0" started-at="2017-09-09T15:02:30Z" finished-at="2017-09-09T15:02:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@4a668b6e]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5006" started-at="2017-09-09T15:02:30Z" data-provider="prime number" finished-at="2017-09-09T15:02:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.40 (41 is prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[41]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5007" started-at="2017-09-09T15:02:35Z" data-provider="prime number" finished-at="2017-09-09T15:02:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.41 (42 is not prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[42]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="0" started-at="2017-09-09T15:02:35Z" finished-at="2017-09-09T15:02:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@5f683daf]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5008" started-at="2017-09-09T15:02:40Z" data-provider="prime number" finished-at="2017-09-09T15:02:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.42 (43 is prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[43]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="0" started-at="2017-09-09T15:02:40Z" finished-at="2017-09-09T15:02:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@78ffe6dc]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="0" started-at="2017-09-09T15:02:45Z" finished-at="2017-09-09T15:02:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@8317c52]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5007" started-at="2017-09-09T15:02:45Z" data-provider="prime number" finished-at="2017-09-09T15:02:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.43 (44 is not prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[44]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="1" started-at="2017-09-09T15:02:50Z" finished-at="2017-09-09T15:02:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@76f2bbc1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5003" started-at="2017-09-09T15:02:50Z" data-provider="prime number" finished-at="2017-09-09T15:02:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.44 (45 is not prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[45]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="0" started-at="2017-09-09T15:02:55Z" finished-at="2017-09-09T15:02:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@68e965f5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5007" started-at="2017-09-09T15:02:55Z" data-provider="prime number" finished-at="2017-09-09T15:03:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.45 (46 is not prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[46]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5003" started-at="2017-09-09T15:03:00Z" data-provider="prime number" finished-at="2017-09-09T15:03:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.46 (47 is prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[47]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="0" started-at="2017-09-09T15:03:00Z" finished-at="2017-09-09T15:03:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@6f27a732]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="0" started-at="2017-09-09T15:03:05Z" finished-at="2017-09-09T15:03:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@6c779568]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5003" started-at="2017-09-09T15:03:05Z" data-provider="prime number" finished-at="2017-09-09T15:03:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.47 (48 is not prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[48]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="0" started-at="2017-09-09T15:03:10Z" finished-at="2017-09-09T15:03:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@f381794]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5002" started-at="2017-09-09T15:03:10Z" data-provider="prime number" finished-at="2017-09-09T15:03:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.48 (49 is not prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[49]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5004" started-at="2017-09-09T15:03:15Z" data-provider="prime number" finished-at="2017-09-09T15:03:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.49 (50 is not prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[50]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="0" started-at="2017-09-09T15:03:15Z" finished-at="2017-09-09T15:03:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@2cdd0d4b]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="0" started-at="2017-09-09T15:03:20Z" finished-at="2017-09-09T15:03:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@7e9131d5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5003" started-at="2017-09-09T15:03:20Z" data-provider="prime number" finished-at="2017-09-09T15:03:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.50 (51 is not prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[51]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="0" started-at="2017-09-09T15:03:25Z" finished-at="2017-09-09T15:03:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@2e1d27ba]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5003" started-at="2017-09-09T15:03:25Z" data-provider="prime number" finished-at="2017-09-09T15:03:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.51 (52 is not prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[52]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5002" started-at="2017-09-09T15:03:30Z" data-provider="prime number" finished-at="2017-09-09T15:03:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.52 (53 is prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[53]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="0" started-at="2017-09-09T15:03:30Z" finished-at="2017-09-09T15:03:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@61d6015a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="0" started-at="2017-09-09T15:03:35Z" finished-at="2017-09-09T15:03:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@2525ff7e]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5004" started-at="2017-09-09T15:03:35Z" data-provider="prime number" finished-at="2017-09-09T15:03:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.53 (54 is not prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[54]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="0" started-at="2017-09-09T15:03:40Z" finished-at="2017-09-09T15:03:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@524d6d96]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5003" started-at="2017-09-09T15:03:40Z" data-provider="prime number" finished-at="2017-09-09T15:03:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.54 (55 is not prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[55]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5006" started-at="2017-09-09T15:03:45Z" data-provider="prime number" finished-at="2017-09-09T15:03:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.55 (56 is not prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[56]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="0" started-at="2017-09-09T15:03:45Z" finished-at="2017-09-09T15:03:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@152aa092]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="1" started-at="2017-09-09T15:03:50Z" finished-at="2017-09-09T15:03:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@44a7bfbc]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5002" started-at="2017-09-09T15:03:50Z" data-provider="prime number" finished-at="2017-09-09T15:03:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.56 (57 is not prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[57]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5006" started-at="2017-09-09T15:03:55Z" data-provider="prime number" finished-at="2017-09-09T15:04:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.57 (58 is not prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[58]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="0" started-at="2017-09-09T15:03:55Z" finished-at="2017-09-09T15:03:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@4ef37659]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="0" started-at="2017-09-09T15:04:00Z" finished-at="2017-09-09T15:04:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@776b83cc]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5004" started-at="2017-09-09T15:04:00Z" data-provider="prime number" finished-at="2017-09-09T15:04:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.58 (59 is prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[59]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="1" started-at="2017-09-09T15:04:05Z" finished-at="2017-09-09T15:04:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@37858383]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5002" started-at="2017-09-09T15:04:05Z" data-provider="prime number" finished-at="2017-09-09T15:04:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.59 (60 is not prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[60]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="1" started-at="2017-09-09T15:04:10Z" finished-at="2017-09-09T15:04:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@4e268090]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5004" started-at="2017-09-09T15:04:10Z" data-provider="prime number" finished-at="2017-09-09T15:04:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.60 (61 is prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[61]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="0" started-at="2017-09-09T15:04:15Z" finished-at="2017-09-09T15:04:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@1bb266b3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5006" started-at="2017-09-09T15:04:15Z" data-provider="prime number" finished-at="2017-09-09T15:04:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.61 (62 is not prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[62]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="0" started-at="2017-09-09T15:04:20Z" finished-at="2017-09-09T15:04:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@306cf3ea]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5005" started-at="2017-09-09T15:04:20Z" data-provider="prime number" finished-at="2017-09-09T15:04:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.62 (63 is not prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[63]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="1" started-at="2017-09-09T15:04:25Z" finished-at="2017-09-09T15:04:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@2beee7ff]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5006" started-at="2017-09-09T15:04:25Z" data-provider="prime number" finished-at="2017-09-09T15:04:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.63 (64 is not prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[64]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="0" started-at="2017-09-09T15:04:30Z" finished-at="2017-09-09T15:04:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@5136d012]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5003" started-at="2017-09-09T15:04:30Z" data-provider="prime number" finished-at="2017-09-09T15:04:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.64 (65 is not prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[65]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="0" started-at="2017-09-09T15:04:35Z" finished-at="2017-09-09T15:04:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@5939a379]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5003" started-at="2017-09-09T15:04:35Z" data-provider="prime number" finished-at="2017-09-09T15:04:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.65 (66 is not prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[66]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5002" started-at="2017-09-09T15:04:40Z" data-provider="prime number" finished-at="2017-09-09T15:04:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.66 (67 is prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[67]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="0" started-at="2017-09-09T15:04:40Z" finished-at="2017-09-09T15:04:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@e1de817]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5005" started-at="2017-09-09T15:04:45Z" data-provider="prime number" finished-at="2017-09-09T15:04:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.67 (68 is not prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[68]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="0" started-at="2017-09-09T15:04:45Z" finished-at="2017-09-09T15:04:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@52102734]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="0" started-at="2017-09-09T15:04:50Z" finished-at="2017-09-09T15:04:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@3541cb24]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5002" started-at="2017-09-09T15:04:50Z" data-provider="prime number" finished-at="2017-09-09T15:04:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.68 (69 is not prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[69]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="0" started-at="2017-09-09T15:04:55Z" finished-at="2017-09-09T15:04:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@2177849e]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5003" started-at="2017-09-09T15:04:55Z" data-provider="prime number" finished-at="2017-09-09T15:05:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.69 (70 is not prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[70]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="1" started-at="2017-09-09T15:05:00Z" finished-at="2017-09-09T15:05:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@40cb8df7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5004" started-at="2017-09-09T15:05:00Z" data-provider="prime number" finished-at="2017-09-09T15:05:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.70 (71 is prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[71]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="1" started-at="2017-09-09T15:05:05Z" finished-at="2017-09-09T15:05:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@13b13b5d]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5005" started-at="2017-09-09T15:05:05Z" data-provider="prime number" finished-at="2017-09-09T15:05:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.71 (72 is not prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[72]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5004" started-at="2017-09-09T15:05:10Z" data-provider="prime number" finished-at="2017-09-09T15:05:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.72 (73 is prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[73]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="0" started-at="2017-09-09T15:05:10Z" finished-at="2017-09-09T15:05:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@2892dae4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5002" started-at="2017-09-09T15:05:15Z" data-provider="prime number" finished-at="2017-09-09T15:05:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.73 (74 is not prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[74]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="0" started-at="2017-09-09T15:05:15Z" finished-at="2017-09-09T15:05:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@355ce81c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="0" started-at="2017-09-09T15:05:20Z" finished-at="2017-09-09T15:05:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@29647f75]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5008" started-at="2017-09-09T15:05:20Z" data-provider="prime number" finished-at="2017-09-09T15:05:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.74 (75 is not prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[75]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5002" started-at="2017-09-09T15:05:25Z" data-provider="prime number" finished-at="2017-09-09T15:05:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.75 (76 is not prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[76]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="0" started-at="2017-09-09T15:05:25Z" finished-at="2017-09-09T15:05:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@3315d2d7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="0" started-at="2017-09-09T15:05:30Z" finished-at="2017-09-09T15:05:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@d6e7bab]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5008" started-at="2017-09-09T15:05:30Z" data-provider="prime number" finished-at="2017-09-09T15:05:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.76 (77 is not prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[77]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5007" started-at="2017-09-09T15:05:35Z" data-provider="prime number" finished-at="2017-09-09T15:05:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.77 (78 is not prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[78]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="0" started-at="2017-09-09T15:05:35Z" finished-at="2017-09-09T15:05:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@5fa07e12]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="0" started-at="2017-09-09T15:05:40Z" finished-at="2017-09-09T15:05:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@55b53d44]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5007" started-at="2017-09-09T15:05:40Z" data-provider="prime number" finished-at="2017-09-09T15:05:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.78 (79 is prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[79]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="0" started-at="2017-09-09T15:05:45Z" finished-at="2017-09-09T15:05:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@482bce4f]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5003" started-at="2017-09-09T15:05:45Z" data-provider="prime number" finished-at="2017-09-09T15:05:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.79 (80 is not prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[80]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="1" started-at="2017-09-09T15:05:50Z" finished-at="2017-09-09T15:05:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@366647c2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5005" started-at="2017-09-09T15:05:50Z" data-provider="prime number" finished-at="2017-09-09T15:05:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.80 (81 is not prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[81]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5003" started-at="2017-09-09T15:05:55Z" data-provider="prime number" finished-at="2017-09-09T15:06:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.81 (82 is not prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[82]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="0" started-at="2017-09-09T15:05:55Z" finished-at="2017-09-09T15:05:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@6a6afff2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="0" started-at="2017-09-09T15:06:00Z" finished-at="2017-09-09T15:06:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@1649b0e6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5004" started-at="2017-09-09T15:06:00Z" data-provider="prime number" finished-at="2017-09-09T15:06:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.82 (83 is prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[83]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5003" started-at="2017-09-09T15:06:05Z" data-provider="prime number" finished-at="2017-09-09T15:06:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.83 (84 is not prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[84]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="0" started-at="2017-09-09T15:06:05Z" finished-at="2017-09-09T15:06:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@865dd6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5006" started-at="2017-09-09T15:06:10Z" data-provider="prime number" finished-at="2017-09-09T15:06:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.84 (85 is not prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[85]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="0" started-at="2017-09-09T15:06:10Z" finished-at="2017-09-09T15:06:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@4da4253]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="1" started-at="2017-09-09T15:06:15Z" finished-at="2017-09-09T15:06:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@3972a855]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5005" started-at="2017-09-09T15:06:15Z" data-provider="prime number" finished-at="2017-09-09T15:06:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.85 (86 is not prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[86]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="0" started-at="2017-09-09T15:06:20Z" finished-at="2017-09-09T15:06:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@62e7f11d]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5005" started-at="2017-09-09T15:06:20Z" data-provider="prime number" finished-at="2017-09-09T15:06:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.86 (87 is not prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[87]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="0" started-at="2017-09-09T15:06:25Z" finished-at="2017-09-09T15:06:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@503d687a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5003" started-at="2017-09-09T15:06:25Z" data-provider="prime number" finished-at="2017-09-09T15:06:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.87 (88 is not prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[88]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5002" started-at="2017-09-09T15:06:30Z" data-provider="prime number" finished-at="2017-09-09T15:06:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.88 (89 is prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[89]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="0" started-at="2017-09-09T15:06:30Z" finished-at="2017-09-09T15:06:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@6a370f4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="0" started-at="2017-09-09T15:06:35Z" finished-at="2017-09-09T15:06:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@2abf4075]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5005" started-at="2017-09-09T15:06:35Z" data-provider="prime number" finished-at="2017-09-09T15:06:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.89 (90 is not prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[90]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5007" started-at="2017-09-09T15:06:40Z" data-provider="prime number" finished-at="2017-09-09T15:06:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.90 (91 is not prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[91]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="0" started-at="2017-09-09T15:06:40Z" finished-at="2017-09-09T15:06:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@770d3326]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5004" started-at="2017-09-09T15:06:45Z" data-provider="prime number" finished-at="2017-09-09T15:06:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.91 (92 is not prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[92]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="0" started-at="2017-09-09T15:06:45Z" finished-at="2017-09-09T15:06:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@4cc8eb05]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="0" started-at="2017-09-09T15:06:50Z" finished-at="2017-09-09T15:06:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@51f116b8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5007" started-at="2017-09-09T15:06:50Z" data-provider="prime number" finished-at="2017-09-09T15:06:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.92 (93 is not prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[93]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5003" started-at="2017-09-09T15:06:55Z" data-provider="prime number" finished-at="2017-09-09T15:07:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.93 (94 is not prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[94]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="0" started-at="2017-09-09T15:06:55Z" finished-at="2017-09-09T15:06:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@19d481b]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5003" started-at="2017-09-09T15:07:00Z" data-provider="prime number" finished-at="2017-09-09T15:07:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.94 (95 is not prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[95]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="0" started-at="2017-09-09T15:07:00Z" finished-at="2017-09-09T15:07:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@1f97cf0d]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5008" started-at="2017-09-09T15:07:05Z" data-provider="prime number" finished-at="2017-09-09T15:07:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.95 (96 is not prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[96]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="0" started-at="2017-09-09T15:07:05Z" finished-at="2017-09-09T15:07:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@140c9f39]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="1" started-at="2017-09-09T15:07:10Z" finished-at="2017-09-09T15:07:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@4d910fd6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5006" started-at="2017-09-09T15:07:10Z" data-provider="prime number" finished-at="2017-09-09T15:07:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.96 (97 is prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[97]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="1" started-at="2017-09-09T15:07:15Z" finished-at="2017-09-09T15:07:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@26275bef]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5004" started-at="2017-09-09T15:07:15Z" data-provider="prime number" finished-at="2017-09-09T15:07:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.97 (98 is not prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[98]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="0" started-at="2017-09-09T15:07:20Z" finished-at="2017-09-09T15:07:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@7690781]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5003" started-at="2017-09-09T15:07:20Z" data-provider="prime number" finished-at="2017-09-09T15:07:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.98 (99 is not prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[99]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="test" duration-ms="5002" started-at="2017-09-09T15:07:25Z" data-provider="prime number" finished-at="2017-09-09T15:07:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-01.99 (100 is not prime number)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[100]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:core.PrimeNumberCheckerTest@1f28c152]" test-instance-name="TC-01.99 (100 is not prime number)" name="beforemethod" is-config="true" duration-ms="0" started-at="2017-09-09T15:07:25Z" finished-at="2017-09-09T15:07:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void core.PrimeNumberCheckerTest.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@77eca502]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+      </class> <!-- core.PrimeNumberCheckerTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
